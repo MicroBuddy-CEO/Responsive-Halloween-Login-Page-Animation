@@ -76,6 +76,8 @@ const App = () => {
        <img src={img10} alt="" className="absolute w-[47px] h-[41px] left-[35px] bottom-[220px] lg:left-[38%] lg:top-[55%] devilAnim" style={{animationDelay: "1s"}}/>
       </>
 
+
+
     </div>
   );
 };
